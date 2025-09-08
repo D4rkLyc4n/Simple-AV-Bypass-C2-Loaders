@@ -1,2 +1,2 @@
-# Simple-AV-C2-Loaders
+# Simple-AV-Bypass-C2-Loaders
 Testing and Showcasing Loaders
